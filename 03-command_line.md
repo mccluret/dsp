@@ -21,13 +21,13 @@ Here`s a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > 1) `pwd` - Shows current working directory path.
-> > 2) `mkdir _dir_` - Makes a new directory.
-> > 3) `rm -r _dir_` - Removes a directory. 
+> > 2) `mkdir dir-name` - Makes a new directory.
+> > 3) `rm -r dir-name` - Removes a directory. 
 > > 4) `touch file1 file 2 file3` - Makes new file(s).
-> > 5) `rm _file-name_` or `rm -f _file-name_` - Deletes file, and deletes file forecfully without prompting.
-> > 6) `mv _file-name_ _file-newName_` - Renames by moving the file to the same location under a new name.
+> > 5) `rm file-name` or `rm -f _file-name_` - Deletes file, and deletes file forecfully without prompting.
+> > 6) `mv file-name_ _file-newName_` - Renames by moving the file to the same location under a new name.
 > > 7) `ls -a` - Lists files in current directory, including hidden files. 
-> > 8) `cp _file-name_ _new-directory_` - copies file into new directory.
+> > 8) `cp file-name new-directory` - copies file into new directory.
 > > 9) `echo "This text is appended to a new file" >> newFile.txt` - Added text to the end of a file, a new one.
 > > 10) `cd ..` - Moves up a directory.
 > > 11) `date` - Shows system date
